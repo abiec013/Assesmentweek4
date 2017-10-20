@@ -1,0 +1,7 @@
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\bin\Debug\Assesmentweek4.exe.config
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\bin\Debug\Assesmentweek4.exe
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\bin\Debug\Assesmentweek4.pdb
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\obj\Debug\Assesmentweek4.csprojResolveAssemblyReference.cache
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\obj\Debug\Assesmentweek4.csproj.CoreCompileInputs.cache
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\obj\Debug\Assesmentweek4.exe
+c:\users\abe\source\repos\Assesmentweek4\Assesmentweek4\obj\Debug\Assesmentweek4.pdb
